@@ -19,10 +19,13 @@ Personal Data collected for the following purposes and using the following servi
 
 
 ## Contact information
-Owner and Data Controller: 
+Owner and Data Controller:
+
 KiwiSounds, 30 Masters Ave, Hamilton, New Zealand.
 
-Owner contact email: kiwisoundboards@gmail.com
+Owner contact email:
+kiwisoundboards@gmail.com
+
 If at any time you want to know the information stored regarding your usage, or want information deleted, contact the email above.
 
 # Full policy
