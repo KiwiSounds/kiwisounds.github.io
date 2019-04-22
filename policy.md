@@ -4,17 +4,28 @@ This Application collects some Personal Data from its Users.
 Policy summary
 Personal Data collected for the following purposes and using the following services:
 
-        Device permissions for Personal Data access
-            Device permissions for Personal Data access
+        Device permissions for Personal Data access include:
+        Personal Data: Microphone permission; Storage permission
+        
+        Infrastructure monitoring: 
+        Sentry (https://sentry.io/)
 
-            Personal Data: Microphone permission; Storage permission
-        Infrastructure monitoring
-            Sentry
+        Personal Data: 
+        Various types of Data as specified in the privacy policy of the service
+        
+        Advertising:
+        Google AdMob (http://admob.google.com/)
+        Personal Data: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data
 
-            Personal Data: various types of Data as specified in the privacy policy of the service
 
-Full policy
-Owner and Data Controller
+## Contact information
+Owner and Data Controller: 
+KiwiSounds, 30 Masters Ave, Hamilton, New Zealand.
+
+Owner contact email: kiwisoundboards@gmail.com
+If at any time you want to know the information stored regarding your usage, or want information deleted, contact the email above.
+
+# Full policy
 Types of Data collected
 
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Microphone permission; Storage permission.
@@ -188,4 +199,4 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
-Latest update: April 19, 2019 
+Latest update: April 21, 2019 
