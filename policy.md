@@ -19,7 +19,7 @@ Personal Data collected for the following purposes and using the following servi
 
 
 ## Contact information
-Owner and Data Controller:<br/>KiwiSounds, 30 Masters Ave, Hamilton, New Zealand.
+Owner and Data Controller:<br/>KiwiSounds, 23 Dabea Lane, Suva, Fiji.
 
 Owner contact email:<br/>kiwisoundboards@gmail.com
 <br/>
@@ -199,4 +199,4 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
-Latest update: April 21, 2019 
+Latest update: May 30th, 2019 
