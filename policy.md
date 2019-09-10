@@ -1,4 +1,4 @@
-# Privacy Policy for IslandSonuds
+# Privacy Policy for IslandSounds
 
 This Application collects some Personal Data from its Users.
 Policy summary
