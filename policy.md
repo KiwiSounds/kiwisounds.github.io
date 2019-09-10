@@ -1,4 +1,4 @@
-# Privacy Policy for KiwiSounds
+# Privacy Policy for IslandSonuds
 
 This Application collects some Personal Data from its Users.
 Policy summary
@@ -19,9 +19,9 @@ Personal Data collected for the following purposes and using the following servi
 
 
 ## Contact information
-Owner and Data Controller:<br/>KiwiSounds, 23 Dabea Lane, Suva, Fiji.
+Owner and Data Controller:<br/>IslandSounds, 22 Mala Place, Suva, Fiji.
 
-Owner contact email:<br/>kiwisoundboards@gmail.com
+Owner contact email:<br/>islandsoundboards@gmail.com
 <br/>
 If at any time you want to know the information stored regarding your usage, or want information deleted, contact the email above.
 
@@ -199,4 +199,4 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
-Latest update: May 30th, 2019 
+Latest update: August 20th, 2019 
